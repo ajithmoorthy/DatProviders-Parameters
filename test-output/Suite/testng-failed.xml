@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+  <parameter name="skilss" value="java"/>
+  <parameter name="designation" value="trainee"/>
+  <parameter name="age" value="21"/>
+  <parameter name="Name" value="ajith"/>
+  <test name="Test(failed)">
+    <classes>
+      <class name="EXcel_TestNg.xls_file.AppTest">
+        <methods>
+          <include name="testApp"/>
+          <include name="diaplay"/>
+          <include name="myMethod"/>
+          <include name="testSingleString"/>
+        </methods>
+      </class> <!-- EXcel_TestNg.xls_file.AppTest -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->

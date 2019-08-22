@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="15" passed="15" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2019-08-22T09:00:46Z" name="Suite" finished-at="2019-08-22T09:00:47Z" duration-ms="362">
+    <groups>
+    </groups>
+    <test started-at="2019-08-22T09:00:46Z" name="Test" finished-at="2019-08-22T09:00:47Z" duration-ms="362">
+      <class name="EXcel_TestNg.xls_file.AppTest">
+        <test-method is-config="true" signature="testSingleString(java.lang.String, int, java.lang.String, java.lang.String)[pri:0, instance:EXcel_TestNg.xls_file.AppTest@568bf312]" started-at="2019-08-22T14:30:46Z" name="testSingleString" finished-at="2019-08-22T14:30:46Z" duration-ms="18" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[ajith]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[21]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[trainee]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[java]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSingleString -->
+        <test-method signature="diaplay(int, java.lang.String, int)[pri:0, instance:EXcel_TestNg.xls_file.AppTest@568bf312]" started-at="2019-08-22T14:30:46Z" name="diaplay" data-provider="data-provider" finished-at="2019-08-22T14:30:46Z" duration-ms="8" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[1]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[ajith]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[21]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- diaplay -->
+        <test-method signature="diaplay(int, java.lang.String, int)[pri:0, instance:EXcel_TestNg.xls_file.AppTest@568bf312]" started-at="2019-08-22T14:30:46Z" name="diaplay" data-provider="data-provider" finished-at="2019-08-22T14:30:46Z" duration-ms="3" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[2]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[ranjtha]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[23]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- diaplay -->
+        <test-method signature="diaplay(int, java.lang.String, int)[pri:0, instance:EXcel_TestNg.xls_file.AppTest@568bf312]" started-at="2019-08-22T14:30:46Z" name="diaplay" data-provider="data-provider" finished-at="2019-08-22T14:30:46Z" duration-ms="5" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[2]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[indhora]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[23]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- diaplay -->
+        <test-method signature="myMethod(java.lang.String, java.lang.String)[pri:0, instance:EXcel_TestNg.xls_file.AppTest@568bf312]" started-at="2019-08-22T14:30:47Z" name="myMethod" data-provider="data-provider1" finished-at="2019-08-22T14:30:47Z" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Username]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Password]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myMethod -->
+        <test-method signature="myMethod(java.lang.String, java.lang.String)[pri:0, instance:EXcel_TestNg.xls_file.AppTest@568bf312]" started-at="2019-08-22T14:30:47Z" name="myMethod" data-provider="data-provider1" finished-at="2019-08-22T14:30:47Z" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[ajith]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[ajith@123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myMethod -->
+        <test-method signature="myMethod(java.lang.String, java.lang.String)[pri:0, instance:EXcel_TestNg.xls_file.AppTest@568bf312]" started-at="2019-08-22T14:30:47Z" name="myMethod" data-provider="data-provider1" finished-at="2019-08-22T14:30:47Z" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[arjun]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[arjun@123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myMethod -->
+        <test-method signature="myMethod(java.lang.String, java.lang.String)[pri:0, instance:EXcel_TestNg.xls_file.AppTest@568bf312]" started-at="2019-08-22T14:30:47Z" name="myMethod" data-provider="data-provider1" finished-at="2019-08-22T14:30:47Z" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[ranjitha]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[ranjitha@123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myMethod -->
+        <test-method signature="myMethod(java.lang.String, java.lang.String)[pri:0, instance:EXcel_TestNg.xls_file.AppTest@568bf312]" started-at="2019-08-22T14:30:47Z" name="myMethod" data-provider="data-provider1" finished-at="2019-08-22T14:30:47Z" duration-ms="3" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[indhira]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[indhira@123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myMethod -->
+        <test-method signature="myMethod(java.lang.String, java.lang.String)[pri:0, instance:EXcel_TestNg.xls_file.AppTest@568bf312]" started-at="2019-08-22T14:30:47Z" name="myMethod" data-provider="data-provider1" finished-at="2019-08-22T14:30:47Z" duration-ms="3" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[saurabh]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[saurabh@123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myMethod -->
+        <test-method signature="myMethod(java.lang.String, java.lang.String)[pri:0, instance:EXcel_TestNg.xls_file.AppTest@568bf312]" started-at="2019-08-22T14:30:47Z" name="myMethod" data-provider="data-provider1" finished-at="2019-08-22T14:30:47Z" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[magesh]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[magesh@123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myMethod -->
+        <test-method signature="myMethod(java.lang.String, java.lang.String)[pri:0, instance:EXcel_TestNg.xls_file.AppTest@568bf312]" started-at="2019-08-22T14:30:47Z" name="myMethod" data-provider="data-provider1" finished-at="2019-08-22T14:30:47Z" duration-ms="5" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[saiAnusha]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[anush@123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myMethod -->
+        <test-method signature="myMethod(java.lang.String, java.lang.String)[pri:0, instance:EXcel_TestNg.xls_file.AppTest@568bf312]" started-at="2019-08-22T14:30:47Z" name="myMethod" data-provider="data-provider1" finished-at="2019-08-22T14:30:47Z" duration-ms="6" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[siva]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[siva@123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myMethod -->
+        <test-method signature="myMethod(java.lang.String, java.lang.String)[pri:0, instance:EXcel_TestNg.xls_file.AppTest@568bf312]" started-at="2019-08-22T14:30:47Z" name="myMethod" data-provider="data-provider1" finished-at="2019-08-22T14:30:47Z" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[rishav]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[rishav@123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myMethod -->
+        <test-method signature="myMethod(java.lang.String, java.lang.String)[pri:0, instance:EXcel_TestNg.xls_file.AppTest@568bf312]" started-at="2019-08-22T14:30:47Z" name="myMethod" data-provider="data-provider1" finished-at="2019-08-22T14:30:47Z" duration-ms="3" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[mohit]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[mohit@123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myMethod -->
+        <test-method signature="testApp()[pri:0, instance:EXcel_TestNg.xls_file.AppTest@568bf312]" started-at="2019-08-22T14:30:47Z" name="testApp" finished-at="2019-08-22T14:30:47Z" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testApp -->
+      </class> <!-- EXcel_TestNg.xls_file.AppTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
